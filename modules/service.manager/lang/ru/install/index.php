@@ -1,0 +1,3 @@
+<?php
+$MESS['YLAB_SERVICE_MANAGER_MODULE_NAME'] = 'YLAB Тестовый модуль';
+$MESS['YLAB_SERVICE_MANAGER_MODULE_DESCRIPTION'] = 'YLAB Тестовый модуль';

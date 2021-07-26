@@ -1,0 +1,34 @@
+Host: les3
+Date: 2021-07-24 21:58:28
+Module: 
+array (
+  'ADD_NAME' => 'ваыапроо',
+  'ADD_EVENT' => 
+  array (
+    'n0' => 
+    array (
+      'VALUE' => 'ывап',
+    ),
+  ),
+  'ADD_THEME' => 
+  array (
+    'n0' => 
+    array (
+      'VALUE' => 'фывап',
+    ),
+  ),
+  'ADD_AUTHOR' => 
+  array (
+    'n0' => 
+    array (
+      'VALUE' => 'ысвап',
+    ),
+  ),
+)
+    IBEventForm < ExecuteModuleEventEx < CAllIBlockElement::CheckFields < CAllIBlockElement::Add < require
+	C:\Users\ararakys\Desktop\openserver\domains\les3\bitrix\modules\main\classes\general\module.php:465
+	C:\Users\ararakys\Desktop\openserver\domains\les3\bitrix\modules\iblock\classes\general\iblockelement.php:4618
+	C:\Users\ararakys\Desktop\openserver\domains\les3\bitrix\modules\iblock\classes\general\iblockelement.php:3441
+	C:\Users\ararakys\Desktop\openserver\domains\les3\bitrix\modules\iblock\admin\iblock_element_edit.php:1050
+	C:\Users\ararakys\Desktop\openserver\domains\les3\bitrix\admin\iblock_element_edit.php:1
+----------

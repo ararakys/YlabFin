@@ -1,0 +1,22 @@
+{
+  "extra": {
+    "installer-paths": {
+      "modules/{$name}/": [
+        "type:bitrix-module"
+      ]
+    }
+  },
+  "require": {
+    "andreyryabin/sprint.migration": "dev-master",
+    "webarchitect609/bitrix-neverinclude": "^1.1"
+  },
+  "require-dev": {
+    "roave/security-advisories": "dev-master",
+    "symfony/var-dumper": "^5.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "Local\\": "app/Orm/"
+    }
+  }
+}

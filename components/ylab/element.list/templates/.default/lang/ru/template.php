@@ -1,6 +1,0 @@
-<?php
-$MESS['YLAB.ELEMENT.LIST.PRICE'] = 'Цена';
-$MESS['YLAB.ELEMENT.LIST.PERCENT'] = 'Наценка %';
-$MESS['YLAB.ELEMENT.LIST.TOTAL'] = 'Итого';
-$MESS['YLAB.ELEMENT.LIST.STATUS'] = 'Статус';
-$MESS['YLAB.ELEMENT.LIST.DATE'] = 'Дата';
